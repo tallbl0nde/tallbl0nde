@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 (this is a WIP)
+![tallbl0nde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallbl0nde&show_icons=true)
 
 <!--
 **tallbl0nde/tallbl0nde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
