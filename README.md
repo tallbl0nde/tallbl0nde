@@ -25,3 +25,6 @@
 
 #### My GitHub Statistics
 ![tallbl0nde's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallbl0nde&text_color=555555&title_color=555555&icon_color=555555&show_icons=true&hide_title=true)
+
+#### My Most Used Languages
+![tallbl0nde's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tallbl0nde&hide_title=true)
