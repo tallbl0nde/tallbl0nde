@@ -1,9 +1,9 @@
 #### Hi, I'm tallbl0nde:
 * 📚 Third year Software Engineering student
-* 💻 Currently working on [NX Activity Log](https://github.com/tallbl0nde/NX-Activity-Log), an application providing more detailed statistics about a user's playtime on their Nintendo Switch
+* 💻 Currently working on [TriPlayer](https://github.com/tallbl0nde/TriPlayer), an audio player for the Nintendo Switch
 * ⚙ Develops a number of small Arduino/Raspberry Pi projects
 * ⚡ Loves tinkering around with electronics
-* 🎮 Anxiously waiting for Cyberpunk 2077 to release
+* 🎮 If I'm not coding, I'm probably playing Cyberpunk 2077
 
 #### Languages I'm familiar with
 
