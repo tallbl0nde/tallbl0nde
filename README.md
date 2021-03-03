@@ -1,9 +1,9 @@
 #### Hi, I'm tallbl0nde:
-* 📚 Third year Software Engineering student
+* 📚 Final year Software Engineering student
 * 💻 Currently working on [TriPlayer](https://github.com/tallbl0nde/TriPlayer), an audio player for the Nintendo Switch
 * ⚙ Develops a number of small Arduino/Raspberry Pi projects
 * ⚡ Loves tinkering around with electronics
-* 🎮 If I'm not coding, I'm probably playing Cyberpunk 2077
+* 🎮 If I'm not coding, I'm either messing with my LAN or more likely playing Cyberpunk 2077
 
 #### Languages I'm familiar with
 
